@@ -13,7 +13,7 @@ import java.util.List;
 
 /**
  *
- * @author Gladys
+ * @author 
  */
 public class Cancion implements Comparable<Cancion> {
 
