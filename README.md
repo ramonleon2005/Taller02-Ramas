@@ -1,4 +1,4 @@
-Nombres Integrantes: Leon Ramon(Lider), Jorge Martinez Gutierrez
+Nombres Integrantes: Leon Ramon(Lider), Jorge Martinez Gutierrez (Integrante 1)
                                    
                                    CAPTURAS INTEGRANTE 1:
 <img width="1642" height="958" alt="rama int 1 cap 2" src="https://github.com/user-attachments/assets/61db9b0b-a784-4262-8540-f24e57334e4d" />
