@@ -4,14 +4,16 @@
  */
 package modelo;
 
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
-import java.io.*;
 
 /**
  *
- * @author Gladys
+ * @author 
  */
 public class Cancion implements Comparable<Cancion> {
 
@@ -97,7 +99,7 @@ public class Cancion implements Comparable<Cancion> {
 
     @Override
     public int compareTo(Cancion o) {
-        return posActual - o.posActual;
+        return o.posActual - posActual;
     }
 
 }
