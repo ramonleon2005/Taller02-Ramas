@@ -1,4 +1,4 @@
-Nombres Integrantes: Leon Ramon(Lider), Jorge Martinez Gutierrez (Integrante 1)
+Nombres Integrantes: Leon Ramon(Lider), Jorge Martinez Gutierrez (Integrante 1), Roy Real (Integrante 2)
 <br>
 <br>                                   
                                                        CAPTURAS INTEGRANTE 1:
